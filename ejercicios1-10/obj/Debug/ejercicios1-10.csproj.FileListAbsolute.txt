@@ -1,0 +1,7 @@
+C:\Users\sebas\source\repos\ejercicios1-10\ejercicios1-10\bin\Debug\ejercicios1-10.exe.config
+C:\Users\sebas\source\repos\ejercicios1-10\ejercicios1-10\bin\Debug\ejercicios1-10.exe
+C:\Users\sebas\source\repos\ejercicios1-10\ejercicios1-10\bin\Debug\ejercicios1-10.pdb
+C:\Users\sebas\source\repos\ejercicios1-10\ejercicios1-10\obj\Debug\ejercicios1-10.csprojAssemblyReference.cache
+C:\Users\sebas\source\repos\ejercicios1-10\ejercicios1-10\obj\Debug\ejercicios1-10.csproj.CoreCompileInputs.cache
+C:\Users\sebas\source\repos\ejercicios1-10\ejercicios1-10\obj\Debug\ejercicios1-10.exe
+C:\Users\sebas\source\repos\ejercicios1-10\ejercicios1-10\obj\Debug\ejercicios1-10.pdb
